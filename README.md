@@ -2,7 +2,7 @@
 
 Commons es una librería Java que reúne patrones y utilidades comunes para proyectos modernos, enfocada en manejo funcional de errores, estructuras canónicas de mensajes y comandos desacoplados.
 
-##Incluye:
+## Incluye:
 
 - __Result Pattern__ (Success, Failure) para representar operaciones con éxito o fallo de forma expresiva y segura.
 - __Excepciones de negocio y técnicas__ (BusinessException, TechnicalException) para diferenciar claramente los tipos de error.
